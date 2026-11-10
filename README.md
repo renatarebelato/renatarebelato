@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Renata Rebelato
+# 👩🏻‍💻 Renata B Rebelato
 
 **`Data Scientist / Data Analyst`**
 
