@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Renata B Rebelato
+# 👩🏻‍💻 Renata B Rebelato <img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 **`Data Scientist / Data Analyst`**
 
