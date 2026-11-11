@@ -21,23 +21,38 @@ Minha formação em Psicologia (Saint Leo University) e MBA em Marketing (USCS) 
 
 ### 🤖 Ferramentas, Linguagem & Tecnologias
 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<br/>
-
-
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="30" height="30" style="padding-right: 10px;" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="30" height="30" style="padding-right: 10px;" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="30" height="30" style="padding-right: 10px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" style="padding-right: 10px;" />
+  </a>
+  <a href="https://analytics.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg" alt="GA4" title="Google Analytics 4" width="30" height="30" style="padding-right: 10px;" />
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" title="Google Cloud Platform" width="30" height="30" style="padding-right: 10px;" />
+  </a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="Databricks" title="Databricks" width="30" height="30" style="padding-right: 10px;" />
+  </a>
+  <a href="https://vtex.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VTEX-%23F71963.svg?style=flat&logo=vtex&logoColor=white" alt="VTEX" title="VTEX" height="28" style="padding-right: 6px; vertical-align: middle;" />
+  </a>
+  <a href="https://ads.google.com/ups/routing?source=206&subid=xs-ip-gemini-adlt" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" alt="Google Ads" title="Google Ads" width="30" height="30" style="padding-right: 10px;" />
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white" alt="Tableau" title="Tableau" height="28" style="padding-right: 6px; vertical-align: middle;" />
+  </a>
+  <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Looker%20Studio-%234285F4.svg?style=flat&logo=looker&logoColor=white" alt="Looker Studio" title="Looker Studio" height="28" style="vertical-align: middle;" />
+  </a>
+</p>
