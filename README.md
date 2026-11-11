@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Renata B Rebelato <img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-**`Data Scientist / Data Analyst`**
+**`Data Scientist / Data Analyst / E-Commerce Specialist`**
 
 Sou a Renata Barizan Rebelato, profissional com uma trajetória executiva de mais de 20 anos na liderança de operações de Logística E2E, E-Commerce e Comércio Exterior em multinacionais como Whirlpool, Pirelli e General Motors. Ao longo da minha carreira, percebi que o verdadeiro diferencial estratégico de qualquer operação está na capacidade de transformar grandes volumes de dados operacionais e comerciais em decisões rentáveis e escaláveis.
 
